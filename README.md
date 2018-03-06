@@ -1,0 +1,2 @@
+# whitepaper
+Project Cryptocurrency MaisCoin
